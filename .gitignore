@@ -1,1 +1,2 @@
-hostfiles/
+hostfiles/*
+!hostfiles/.gitkeep
